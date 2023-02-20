@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @twojnarowski <br>
 👀 I’m interested in finance, movies, games and simracing. <br>
-🌱 I’m currently learning asp.net mvc <br>
+🌱 I’m currently learning asp.net mvc, blazor, webapi and all of C# and .NET <br>
 📫 How to reach me - send an owl ;) <br>
 
 ## 🌐 Socials:
