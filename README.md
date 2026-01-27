@@ -1,5 +1,5 @@
 # NOEXP.IT
-[NOEXP.IT}(https://noexp.it)
+[NOEXP.IT](https://noexp.it)
 
 # About Me:
 👋 Hi, I’m @twojnarowski <br>
