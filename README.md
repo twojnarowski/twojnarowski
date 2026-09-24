@@ -1,5 +1,7 @@
-# NOEXP.IT
-[NOEXP.IT](https://noexp.it)
+# What I do
+[noexp.it](https://noexp.it)
+[it.ultranet.com.pl](https://it.ultranet.com.pl/)
+
 
 # About Me:
 👋 Hi, I’m @twojnarowski <br>
@@ -8,6 +10,7 @@
 📫 How to reach me - send an owl ;) <br>
 
 ## 🌐 Socials:
+[linktr.ee](https://linktr.ee/tymonello)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GsMrtum7Yd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wojnarowskit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11532275) 
 
 # 💻 Tech Stack:
